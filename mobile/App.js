@@ -1,5 +1,5 @@
 import 'intl';
-import 'intl/locate-dat/jsonp/pt-BR';
+import 'intl/locale-data/jsonp/pt-BR';
 
 import React from 'react';
 
